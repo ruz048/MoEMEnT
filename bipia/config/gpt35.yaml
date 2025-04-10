@@ -1,0 +1,5 @@
+api_key: ""
+api_type: "openai"
+model: "gpt-3.5-turbo"
+chat: True
+llm_name: "gpt35"
